@@ -39,7 +39,7 @@ div span {
   padding-left: 8px;
 }
 
-#backslash {
+.backslash {
   margin: 0 auto;
   width: 1000px;
 }
@@ -80,11 +80,13 @@ span {
 
 .list {
   background-image: url("../img/list-bg.png");
+  padding-bottom: 4em;
+  margin-bottom: 3em;
 }
 
 ul {
   margin-top: 40px;
-  font-size: 18px;
+  font-size: 22px;
   width: 320px;
   line-height: 1.5em;
   display: inline-block;
