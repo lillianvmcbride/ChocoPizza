@@ -1,0 +1,95 @@
+header {
+  margin: 0 auto;
+  width: 1000px;
+  padding-bottom: 6em;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 32px;
+}
+
+#logo {
+  width: 240px;
+  display: inline;
+  float: left;
+  margin-top: 20px;
+}
+
+div span {
+  float: right;
+}
+
+#best {
+  font-size: 11px;
+}
+
+#icons {
+  display: inline;
+  float: right;
+  margin-top: 35px;
+}
+
+#aBunch {
+  display: inline;
+}
+
+#aFew {
+  display: inline;
+  padding-left: 8px;
+}
+
+#backslash {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+main {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+h3 {
+  color: gray;
+  margin-left: 3px;
+  display: inline;
+}
+
+span {
+  float: right;
+  color: gray;
+}
+
+#pizza {
+  width: 1000px;
+  margin-top: 30px;
+}
+
+.para {
+  font-size: 22px;
+  padding-top: 30px;
+  line-height: 1.5em;
+  text-indent: 40px;
+}
+
+.list {
+  background-image: url(img/list-bg.png);
+}
+
+ul {
+  margin-top: 40px;
+  font-size: 24px;
+  width: 350px;
+  line-height: 1.5em;
+  display: inline-block;
+}
+
+#right {
+  float: right;
+}
