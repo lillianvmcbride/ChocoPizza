@@ -79,15 +79,19 @@ span {
 }
 
 .list {
-  background-image: url(img/list-bg.png);
+  background-image: url("../img/list-bg.png");
 }
 
 ul {
   margin-top: 40px;
-  font-size: 24px;
-  width: 350px;
+  font-size: 18px;
+  width: 320px;
   line-height: 1.5em;
   display: inline-block;
+}
+
+#left {
+  margin-left: 60px;
 }
 
 #right {
